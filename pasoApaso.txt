@@ -1,0 +1,6 @@
+Se crea pagina web 1
+Se utiliza imagen de portada "CV2.jpg"
+Se crea pagina web 2
+Se Utiliza imagen de portada "Imagen Portada.jpg"
+Se crea pagina web 3
+Se crean 3 hojas de estilo CSS

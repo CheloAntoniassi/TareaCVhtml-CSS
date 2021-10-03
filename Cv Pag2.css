@@ -1,0 +1,25 @@
+body{
+    background-color:#E0D7D4;
+}
+h3{
+  color:maroon;
+  font-family: new Arial, Helvetica, sans-serif;
+  font-size: 150%;
+}
+h2{
+    color:rgba(153, 15, 15, 0.76) ;
+    font-family: Arial, Helvetica, sans-serif;
+}
+p{
+    color: rgba(194, 88, 70, 0.767);
+    margin-bottom: 2%;
+}
+#final{
+    width: 15%;
+    height: 15%;
+    color: rgb(0, 0, 0);
+    margin-left: 50%;
+}
+#final:hover{
+    background-color: rgb(101, 226, 101);
+}
